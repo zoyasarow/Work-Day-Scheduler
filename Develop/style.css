@@ -1,0 +1,112 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: rgba(101, 167, 147, 0.904);
+  color: white;
+  border-radius: 0;
+  border-bottom: 5px ;
+}
+
+.lead {
+  margin-top: 30px;
+}
+
+.lead-2 {
+  font-size: 20px;
+}
+
+#emojis {
+  font-size: 30px;
+}
+
+.description {
+  white-space: pre-wrap;
+}
+
+.current {
+  margin-top: 50px;
+}
+
+.time-block {
+  text-align: center;
+  border-radius: 15px;
+}
+
+#row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;
+}
+
+#time-col {
+  background-color: #ffffff;
+  color: #d8961c;
+  border-top: 1px dashed rgba(101, 167, 147, 0.904);
+  align-content: center;
+  padding: 30px;
+  padding-left: 45px;
+  font-size: large;
+}
+
+.col-lg-auto {
+  width: 520px;
+  border-radius: 8px;
+  border-color:rgba(101, 167, 147, 0.904);
+}
+
+.col-lg-auto:hover {
+  border-color: rgb(235, 199, 41);
+}
+
+.col-lg-2 {
+  width: 3px;
+  border-radius: 8px;
+  background-color: lightblue;
+  font-size: 200%;
+}
+
+.col-lg-2:hover {
+  font-size: 300%;
+}
+
+.past {
+  background-color: #d3d3d3;
+  color: white;
+}
+
+.present {
+  background-color: #ff6961;
+  color: white;
+}
+
+.future {
+  background-color: #77dd77;
+  color: white;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06aed5;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
