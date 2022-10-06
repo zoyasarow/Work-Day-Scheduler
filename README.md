@@ -3,6 +3,8 @@
 
 # Work Day Scheduler
 
+Live Link:
+
 ## Description 
 This application uses Moment.js & javascript functions to allow users to create events during a workday using time blocks that are saved to local storage and rendered on the screen with each save. The intention of this application is to allow users to better manage their time by being able to visualize a schedule similar to a daily planner or to-do list. Learning to implement local storage and javascript functions such as getItem & setItem were the main points of growth while developing this application.
 
@@ -41,3 +43,8 @@ Email Address: zoyasarow@gmail.com
       
 ## License Type
 MIT 
+
+![Screen Shot 2022-10-05 at 9 17 08 PM](https://user-images.githubusercontent.com/101853202/194206349-58dc50bf-7deb-454e-b794-510eec2ab55e.png)
+![Screen Shot 2022-10-05 at 9 16 06 PM](https://user-images.githubusercontent.com/101853202/194206364-c626c1f5-4956-48fb-ba6d-e88296c98ddb.png)
+![Screen Shot 2022-10-05 at 9 17 42 PM](https://user-images.githubusercontent.com/101853202/194206368-eb69cd5f-0ff1-4b3d-bd2e-1783e6f1c112.png)
+
