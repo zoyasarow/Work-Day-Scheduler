@@ -4,7 +4,7 @@
 # Work Day Scheduler
 
 ## Description 
-This application uses Moment.js & javascript functions to allow users to create events during a workday using time blocks that are saved to local storage and rendered on the screen with each save. The intention of this application is to allow users to better manage their time by being able to visualize a schedule similar to a daily planner & to-do list. This application aims to solve the problem of procrastination! Learning to implement local storage and javascript functions like getItem & setItem were the main learning points of this application.
+This application uses Moment.js & javascript functions to allow users to create events during a workday using time blocks that are saved to local storage and rendered on the screen with each save. The intention of this application is to allow users to better manage their time by being able to visualize a schedule similar to a daily planner or to-do list. This application aims to solve the problem of procrastination! Learning to implement local storage and javascript functions like getItem & setItem were the main learning points of this application.
 
 ## User Story
 AS AN employee with a busy schedule
