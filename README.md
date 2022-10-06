@@ -24,7 +24,7 @@ SO THAT I can manage my time effectively
 There are no major installation requirements for this project, click the live link in the repo and open inspect on the browser screen to see local storage data 
       
 ## Usage Information 
-Type your plans/tasks in each of the user input boxes by each hour and click the save button to get the input to stay. Use the entire screen as a to-do list or daily planner for that day!
+Type your plans and/or tasks in each of the user input boxes by the correlating hours and click the save button to get the input to stay. Use the entire screen as a to-do list or daily planner for that day!
         
 ## Contributions & Credit 
 There are not collaborators for this project 
