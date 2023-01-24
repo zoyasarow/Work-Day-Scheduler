@@ -3,7 +3,7 @@
 
 # Work Day Scheduler
 
-Live Link: https://zoyasarow.github.io/Work-Day-Scheduler/
+[Live Link](https://zoyasarow.github.io/Work-Day-Scheduler/)
 
 ## Description 
 This application uses Moment.js & javascript functions to allow users to create events during a workday using time blocks that are saved to local storage and rendered on the screen with each save. The intention of this application is to allow users to better manage their time by being able to visualize a schedule similar to a daily planner or to-do list. Learning to implement local storage and javascript functions such as getItem & setItem were the main points of growth while developing this application.
